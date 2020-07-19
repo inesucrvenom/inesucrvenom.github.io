@@ -10,9 +10,6 @@ highlighter: rouge
 permalink: /:categories/:year/:month/:title:output_ext
 markdown: kramdown
 
-header_pages:
-  - about.md
-
 defaults:
   -
     scope:
@@ -46,6 +43,11 @@ minima:
 
   skin:
     classic
+
+
+header_pages:
+  - about.md
+  - README.md
 
 # Build settings
 theme: minima
