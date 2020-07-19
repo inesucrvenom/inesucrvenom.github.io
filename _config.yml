@@ -45,7 +45,7 @@ minima:
     classic
 
 
-header_pages:
+pages:
   - about.md
   - README.md
 
