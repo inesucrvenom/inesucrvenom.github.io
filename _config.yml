@@ -5,6 +5,7 @@ description: > # this means to ignore newlines
   A collection of various little gems I've done outside of workplace, or during the interview processes. Some might be even laughing stock today, but it's good reminder of the whole journey :)
 
 show_excerpts: false
+#excerpt_separator: <!--more-->
 
 highlighter: rouge
 permalink: /:categories/:year/:month/:title:output_ext
@@ -45,9 +46,9 @@ minima:
     classic
 
 
-pages:
-  - about.md
-  - README.md
+#header_pages:
+#  - about.md
+#  - README.md
 
 # Build settings
 theme: minima
