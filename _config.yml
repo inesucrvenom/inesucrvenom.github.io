@@ -19,7 +19,7 @@ minima:
     linkedin: inessimicic
 
   skin:
-    dark
+    solarized
 
 # Build settings
 theme: minima
