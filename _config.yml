@@ -4,9 +4,14 @@ author:
 description: > # this means to ignore newlines
   A collection of various little gems I've done outside of workplace, or during the interview processes. Some might be even laughing stock today, but it's good reminder of the whole journey :)
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: false
 
+highlighter: rouge
 permalink: /:categories/:year/:month/:title:output_ext
+markdown: kramdown
+
+header_pages:
+  - about.md
 
 defaults:
   -
@@ -47,8 +52,7 @@ theme: minima
 
 plugins:
   - jemoji
-  - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-gist
   - jekyll-paginate-v2
 
 # Jekyll-paginate-v2 configuration

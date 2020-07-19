@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "First iteration of list of projects"
 ---
 
