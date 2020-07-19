@@ -1,6 +1,5 @@
 ---
-title: about
+title: Ines Šimičić
 ---
-No title, just some test to see where it will go.
-
+Here goes something about me.
 :grin:
