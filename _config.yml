@@ -8,9 +8,9 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 permalink: /:categories/:year/:month/:title:output_ext
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
+  # Minima date format
+  # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
   date_format: "%b %Y"
 
   # generate social links in footer
@@ -18,11 +18,8 @@ minima:
     github: inesucrvenom
     linkedin: inessimicic
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
+  skin:
+    solarized
 # Build settings
 theme: minima
 
