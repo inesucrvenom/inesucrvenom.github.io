@@ -5,7 +5,8 @@ description: > # this means to ignore newlines
   A collection of various little gems I've done outside of workplace, or during the interview processes. Some might be even laughing stock today, but it's good reminder of the whole journey :)
 
 show_excerpts: true
-#excerpt_separator: <!--more-->
+# takes whole first paragraph by default, use this otherwise: 
+# excerpt_separator: <!--more-->
 
 highlighter: rouge
 permalink: /:categories/:year/:month/:title:output_ext
