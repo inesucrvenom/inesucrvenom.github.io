@@ -1,5 +1,5 @@
 ---
-title: "Example DWH for bank account (Talend, MySQL)"
+title: "Example DWH for bank account's transactions (Talend, MySQL)"
 ---
 Learning DWH, ETL using Talend.
 
