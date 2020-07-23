@@ -1,5 +1,4 @@
 ---
-title: Portfolio
 layout: home
 pagination:
   enabled: true
