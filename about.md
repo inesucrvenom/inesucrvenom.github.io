@@ -1,5 +1,5 @@
 ---
-title: Ines Šimičić
+title: About me
 ---
 Here comes a bit more about me. :grin:
 
