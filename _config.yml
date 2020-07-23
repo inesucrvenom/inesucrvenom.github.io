@@ -43,6 +43,8 @@ minima:
     github: inesucrvenom
     linkedin: inessimicic
 
+  skin:
+    mine
 
 header_pages:
   - about.md
