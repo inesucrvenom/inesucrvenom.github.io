@@ -1,0 +1,35 @@
+#RewriteEngine On
+#RewriteOptions inherit
+#Options +FollowSymlinks
+#Options -Multiviews
+
+## hide .php extension
+## To externally redirect /dir/foo.php to /dir/foo
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{THE_REQUEST} ^[A-Z]{3,}s([^.]+).php [NC]
+#RewriteRule ^ %1 [R,L,NC]
+
+## To internally forward /dir/foo to /dir/foo.php
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.*?)/([a-zA-Z0-9_-]+)/([0-9]+)$ /new/$1.php?ID=$3 [L]
+
+
+#<Files ~ "^\.(htaccess|htpasswd)$">
+#deny from all
+#</Files>
+#Options Indexes
+#DirectoryIndex index.php
+#order deny,allow
+
+
+##Prevent viewing of this file
+#<Files .htaccess>
+#order allow,deny
+#deny from all
+#</Files>
+
+##Prevent directory listings
+#Options -Indexes
+
