@@ -7,7 +7,6 @@ Before this assignment I didn't have a clue what AWS Lambda is or how to use it.
 After roughly 3 weeks of research and work on it, the result that I'm proud of can be seen on [github](https://github.com/inesucrvenom/mathfun).
 
 ## Research flow and decisions
-
 ### To framework or not to framework...
 Big part of research was to figure out how to start and how to deploy lambdas.
 I've found suggestions for frameworks like serverless and chalice, but they just didn't seemed right for my case.
