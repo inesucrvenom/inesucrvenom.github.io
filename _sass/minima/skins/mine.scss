@@ -1,8 +1,8 @@
 @charset "utf-8";
 
-$brand-color-light:     #9385C0 !default;
-$brand-color:           #6D5F9A !default;
-$brand-color-dark:      #20124d !default;
+$brand-color-light:     lighten($brand-color-dark, 45%) !default;
+$brand-color:           lighten($brand-color-dark, 30%) !default;
+$brand-color-dark:      #20124d !default; // google dark purple 3, from resume
 
 $site-title-color:      $brand-color-dark !default;
 
