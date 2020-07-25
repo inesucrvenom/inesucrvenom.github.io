@@ -28,7 +28,7 @@ After roughly 3 weeks of research and implementation, I've made a solution that 
 Unfortunately, I lost Talend files for it, but I have materials that I've prepared as a backup for the presentation in case my borrowed notebook fails to run it.
 It's mix of English and Croatian, but I think it can still illustrate the process quite well.
 
-First, I had to do some research and experiment. While doing that I've made [this notes]({{ site.baseurl }}{% projects/talend/bank-transactions/talend-research.pdf %}).
+First, I had to do some research and experiment. While doing that I've made [this notes](/projects/talend/bank-transactions/talend-research.pdf).
 
 From that and through the project, I've prepared myself for [presenting my findings](/projects/talend/bank-transactions/talend-notes-for-presenting.pdf).
 
