@@ -1,0 +1,35 @@
+---
+title: "Example DWH for bank account's transactions (Talend, MySQL)"
+---
+Learning DWH, ETL using Talend on simplified exercise.
+
+## Task
+Using Talend for ETL, create simple system of combining the data from multiple sources of different type. Generate several reports from that system.
+
+#### Inputs
+  - databases - clients, transactions
+  - excel - exchange rate list
+    - for specific days, pick several currencies
+    - cover at least one month period
+
+#### DWH
+  - use Talend to implement simple ETL jobs which extracts the data from the sources, and combined together saves them into database
+  - save history for data if it makes sense
+  - document E/R model of a database
+
+#### Output report examples
+  - monthly report of transactions for a given month and a client
+  - shopping habits for a given client - where the client spends most, which shops, through the months
+
+## Discussion
+I've never seen DWH or ETL before in my life.
+After roughly 3 weeks of research and implementation, I've made a solution that made me proud.
+
+Unfortunately, I lost talend files for it, but I have materials I've prepared as a backup for the presentation in case my notebook fails to run it.
+It's mix of English and Croatian, but I think it can still illustrate the process quite well.
+
+First, I had to do some research and experiment. While doing that I've made [this notes](projects/talend/bank-transactions/talend-research.pdf).
+
+From that and through the project, I've prepared myself for [presenting my findings](/projects/talend/bank-transactions/talend-notes-for-presenting.pdf).
+
+And I've also prepared screenshots and details from Talend, which can be [seen here](/projects/talend/bank-transactions/talend-presentation.pdf).
