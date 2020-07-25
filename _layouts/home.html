@@ -34,7 +34,7 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
           <div class="read-more">
-            <a href="{{ site.baseurl }}{{ post.url }}">read more</a>
+            <a class="read-more-link" href="{{ site.baseurl }}{{ post.url }}">read more</a>
           </div>
         {%- endif -%}
       </li>

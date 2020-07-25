@@ -10,18 +10,18 @@ $text-color:            #111111 !default;
 $background-color:      #fdfdfd !default;
 $code-background-color: #eeeeff !default;
 
-$link-base-color:       $brand-color-dark !default; //
+$link-base-color:       $brand-color-dark !default;
 $link-visited-color:    $brand-color !default;
 $link-hover-color:      $text-color !default;
 
 $border-color-01:       $brand-color-dark !default;
-$border-color-02:       $brand-color-light !default;
+$border-color-02:       $brand-color !default;
 $border-color-03:       $brand-color-light !default;
 
 $table-text-color:      lighten($text-color, 10%) !default;
-$table-zebra-color:     lighten($brand-color, 46%) !default;
-$table-header-bg-color: lighten($brand-color, 43%) !default;
-$table-header-border:   lighten($brand-color, 37%) !default;
+$table-zebra-color:     darken($brand-color-light, 10%) !default;
+$table-header-bg-color: $brand-color-light !default;
+$table-header-border:   $border-color-01 !default;
 $table-border-color:    $border-color-01 !default;
 
 
