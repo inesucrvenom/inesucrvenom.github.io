@@ -228,6 +228,7 @@
 }
 
 .post-link {
+  color: $brand-color-dark
   display: block;
   @include relative-font-size(1.5);
 }
