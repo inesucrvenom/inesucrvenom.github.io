@@ -11,3 +11,10 @@
   height: 150px;
   width: 150px;
 }
+
+.site-title::before {
+	content: url("logo.svg");
+	display: inline-block;
+	position: relative;
+	width: 50px;
+	top: 5px;
