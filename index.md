@@ -2,6 +2,7 @@
 layout: home
 pagination:
   enabled: true
+image: assets/site.png
 ---
 Collection of projects that I've done for practice, for interviews, for fun, when I wanted script to make something faster (then spend significantly more time on making script work), the usual :grin:
 

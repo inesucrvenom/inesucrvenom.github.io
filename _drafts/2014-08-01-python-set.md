@@ -1,5 +1,6 @@
 ---
 title: Set game (python)
+image: assets/code.png
 ---
 
 http://en.wikipedia.org/wiki/Set_%28game%29

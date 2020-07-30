@@ -1,5 +1,6 @@
 ---
 title: About me
+image: assets/site.png
 ---
 Here comes a bit more about me. :grin:
 
