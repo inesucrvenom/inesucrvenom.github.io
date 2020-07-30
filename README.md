@@ -1,5 +1,4 @@
-
-![logo](logo.png)
+![logo](logo-repo.png)
 
 ## About
 Repo for http://inesucrvenom.github.io
