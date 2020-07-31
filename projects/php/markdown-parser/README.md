@@ -1,8 +1,10 @@
+Created in 2016.
+
 # Markdown parser
 
-The task is to create a parser that takes a given input and converts it to some output using some of the standard MarkDown components and some special flavor.
+Create a parser that takes a given input and converts it to some output using some of the standard MarkDown components and some special flavor.
 
-It has the following components:
+Parser has the following components:
 * The paragraph behaviour is the same as in the normal MarkDown (Read up on it [here](https://daringfireball.net/projects/markdown/syntax#p))
 * `[linked text](URL)` that will be converted to `<a href="URL">linked text</a>`
 * `# Some text` that will be converted to `<h1>Some text</h1>`

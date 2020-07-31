@@ -3,13 +3,27 @@ title: "Several php projects"
 image: assets/code.png
 ---
 
-Simplified Markdown parser.
+Simplified Markdown parser. City data searching. Blog.
+
+I don't know php, so I've managed to figure this out by a lot of research and using other people's examples as my template. Even after research I wasn't sure about several things original tasks asked for so I didn't implement them. I tried to cover some basics while only using things I could understand.
+
+I provided my comments as a separate file (in Croatian, for last two tasks see [here](/projects/php/php-comments.pdf)), and I've also sprinkled code with comments and references that could help me understand what's going on.
+
+This were learning projects during the time when I was pondering if php developer positions would fit me. No :smile:
 
 ## Markdown parser
-{% include_relative /projects/php/markdown-parser/README.md %}
+Create a parser that takes a given input and converts it to some output using some of the standard MarkDown components and some special flavor.
 
-Solution can be checked on github [here](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/projects/php/markdown-parser), which includes the example input and output file.
+Detailed description and solution: [markdown-parser](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/projects/php/markdown-parser).
+
 
 ## Geolocations
+Import the data from a given csv file into a database and create a rudimentary site that implements querying the database based on city name.
+
+Detailed description and solution: [GeoLokacije](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/projects/php/GeoLokacije).
+
 
 ## Blog
+Create rudimentary blog site following the simplified MVC architecture that suits the problem.
+
+Detailed description and solution: [Blog](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/projects/php/Blog).
