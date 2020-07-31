@@ -5,7 +5,7 @@ image: assets/code.png
 Learning project to grasp some new topics (serverless development, automatic deployment); while improving others (testing, handling errors and exceptions, general Python skills).
 
 Before this assignment I didn't have a clue what AWS Lambda is or how to use it.
-After roughly 3 weeks of research and work on it, the result that I'm proud of can be seen on [github](https://github.com/inesucrvenom/mathfun).
+After roughly 3 weeks of research and work on it, the result that I'm proud is here: [mathfun](https://github.com/inesucrvenom/mathfun).
 
 ## Research flow and decisions
 ### To framework or not to framework...
