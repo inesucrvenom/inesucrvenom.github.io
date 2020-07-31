@@ -1,5 +1,5 @@
 ---
-title: "Several php projects"
+title: Several php projects
 image: assets/code.png
 ---
 
