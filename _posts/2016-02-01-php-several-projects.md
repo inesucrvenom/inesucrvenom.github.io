@@ -17,7 +17,7 @@ Create a parser that takes a given input and converts it to some output using so
 Detailed description and solution: [markdown-parser](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/projects/php/markdown-parser).
 
 
-## Geolocations
+## GeoLocations
 Import the data from a given csv file into a database and create a rudimentary site that implements querying the database based on city name.
 
 Detailed description and solution: [GeoLokacije](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/projects/php/GeoLokacije).
