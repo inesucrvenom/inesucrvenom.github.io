@@ -1,4 +1,4 @@
-Made sometime in 2010.
+Made sometime in 2009.
 
 Daily database dumps were loaded into local MySQL with cronjob, then this php used local DB to analyse whatever I wanted to see - mainly goal was to see which players are inactive for several days in a row so that you can safely farm them without retribution.
 
