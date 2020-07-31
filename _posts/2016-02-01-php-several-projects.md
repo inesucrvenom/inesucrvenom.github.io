@@ -14,16 +14,16 @@ This were learning projects during the time when I was pondering if php develope
 ## Markdown parser
 Create a parser that takes a given input and converts it to some output using some of the standard MarkDown components and some special flavor.
 
-Detailed description and solution: [markdown-parser](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/projects/php/markdown-parser).
+> Detailed description and solution: [markdown-parser](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/projects/php/markdown-parser).
 
 
 ## GeoLocations
 Import the data from a given csv file into a database and create a rudimentary site that implements querying the database based on city name.
 
-Detailed description and solution: [GeoLokacije](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/projects/php/GeoLokacije).
+> Detailed description and solution: [GeoLokacije](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/projects/php/GeoLokacije).
 
 
 ## Blog
 Create rudimentary blog site following the simplified MVC architecture that suits the problem.
 
-Detailed description and solution: [Blog](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/projects/php/Blog).
+> Detailed description and solution: [Blog](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/projects/php/Blog).
