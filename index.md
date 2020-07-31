@@ -8,5 +8,5 @@ Collection of projects that I've done outside of the workplace: for practice, fo
 
 Various short programs, common algorithms and similar crowd: [short-exercises](https://github.com/inesucrvenom/inesucrvenom.github.io/tree/master/short-exercises)
 
-![codewars](https://www.codewars.com/users/inesucrvenom/badges/micro)
+[![codewars](https://www.codewars.com/users/inesucrvenom/badges/micro)](https://www.codewars.com/users/inesucrvenom)
 ---
