@@ -1,3 +1,5 @@
+# Markdown parser
+
 The task is to create a parser that takes a given input and converts it to some output using some of the standard MarkDown components and some special flavor.
 
 It has the following components:
