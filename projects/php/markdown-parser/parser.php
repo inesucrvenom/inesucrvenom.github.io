@@ -91,5 +91,4 @@ class Parser{
 
 // test
 
-Parser::markdownParse('file2.txt','file_out.txt');
-
+Parser::markdownParse('file_in.txt','file_out.txt');
