@@ -7,7 +7,7 @@ Simplified Markdown parser. City data searching. Blog.
 
 I don't know php, so I've managed to figure this out by a lot of research and using other people's examples as my template. Even after research I wasn't sure about several things original tasks asked for so I didn't implement them. I tried to cover some basics while only using things I could understand.
 
-I provided my comments as a separate file (in Croatian, for last two tasks see [here](/projects/php/php-comments.pdf)), and I've also sprinkled code with comments and references that could help me understand what's going on.
+I noted my findings and compiled comments (in Croatian, for last two tasks see [here](/projects/php/php-comments.pdf)), and I've also sprinkled code with comments and references that could help me understand what's going on.
 
 This were learning projects during the time when I was pondering if php developer positions would fit me. No :smile:
 
