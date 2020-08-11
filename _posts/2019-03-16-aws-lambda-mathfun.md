@@ -1,6 +1,6 @@
 ---
 title: Few simple functions (AWS Lambda, Python, Ansible)
-image: assets/code.png
+image: assets/post-python.png
 ---
 Learning project to grasp some new topics (serverless development, automatic deployment); while improving others (testing, handling errors and exceptions, general Python skills).
 
