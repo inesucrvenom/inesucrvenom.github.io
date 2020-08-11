@@ -9,4 +9,4 @@ Daily database dumps were loaded into local MySQL with cronjob, then this php us
 
 Many years later I've realised that this was basically my first ETL, data warehouse, and data analysis project. Solving real world problems, no :wink:
 
-> Main php file: [travian-analyser](https://github.com/inesucrvenom/practice-archive/historic-nuggets/travian-analyser/).
+> Main php file: [travian-analyser](https://github.com/inesucrvenom/practice-archive/tree/master/historic-nuggets/travian-analyser)

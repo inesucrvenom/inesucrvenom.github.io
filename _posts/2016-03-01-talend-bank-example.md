@@ -29,8 +29,8 @@ After roughly 3 weeks of research and implementation, I've made a solution that 
 Unfortunately, I lost Talend files for it, but I have materials that I've prepared as a backup for the presentation in case my borrowed notebook fails to run it.
 It's mix of English and Croatian, but I think it can still illustrate the process quite well.
 
-First, I had to do some research and experiment. While doing that I've made [this notes](https://github.com/inesucrvenom/practice-archive/job-interview-data/talend-bank-transactions/talend-research.pdf).
+First, I had to do some research and experiment. While doing that I've made [this notes](https://github.com/inesucrvenom/practice-archive/tree/master/job-interview-data/talend-bank-transactions/talend-research.pdf).
 
-From that and through the project, I've prepared myself for [presenting my findings](https://github.com/inesucrvenom/practice-archive/job-interview-data/talend-bank-transactions/talend-notes-for-presenting.pdf).
+From that and through the project, I've prepared myself for [presenting my findings](https://github.com/inesucrvenom/practice-archive/tree/master/job-interview-data/talend-bank-transactions/talend-notes-for-presenting.pdf).
 
-And I've also prepared screenshots and details from Talend, which can be [seen here](https://github.com/inesucrvenom/practice-archive/job-interview-data/talend-bank-transactions/talend-presentation.pdf).
+And I've also prepared screenshots and details from Talend, which can be [seen here](https://github.com/inesucrvenom/practice-archive/tree/master/job-interview-data/talend-bank-transactions/talend-presentation.pdf).
