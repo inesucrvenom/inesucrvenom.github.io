@@ -33,7 +33,7 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
+        {% if post.content.size > post.excerpt.size %}
           {{ post.excerpt }}
           <div class="read-more">
             <a class="read-more-link" href="{{ site.baseurl }}{{ post.url }}">read more</a>
