@@ -3,16 +3,14 @@ title: Several php projects
 image: assets/post-mix.png
 ---
 
-## Markdown parser
-Create a parser that takes a given input and converts it to some output using some of the standard MarkDown components and some special flavor.
+## Several projects
+- Create a parser that takes a given input and converts it to some output using some of the standard MarkDown components and some special flavor.
 > [markdown-parser](https://github.com/inesucrvenom/practice-archive/tree/master/job-interview-php/markdown-parser).
 
-## GeoLocations
-Import the data from a given csv file into a database and create a rudimentary site that implements querying the database based on city name.
+- Import the data from a given csv file into a database and create a rudimentary site that implements querying the database based on city name.
 > [GeoLokacije](https://github.com/inesucrvenom/practice-archive/tree/master/job-interview-php/GeoLokacije).
 
-## Blog
-Create rudimentary blog site following the simplified MVC architecture that suits the problem.
+- Create rudimentary blog site following the simplified MVC architecture that suits the problem.
 > [Blog](https://github.com/inesucrvenom/practice-archive/tree/master/job-interview-php/Blog).
 
 <!--more-->
