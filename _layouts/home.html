@@ -38,6 +38,8 @@ layout: default
           <div class="read-more">
             <a class="read-more-link" href="{{ site.baseurl }}{{ post.url }}">read more</a>
           </div>
+        {% else %}
+          {{ post.content }}
         {%- endif -%}
       </li>
       {%- endfor -%}
