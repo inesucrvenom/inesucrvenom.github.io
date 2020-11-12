@@ -3,7 +3,6 @@ title: Several php projects
 image: assets/post-mix.png
 ---
 
-## Several projects
 - Create a parser that takes a given input and converts it to some output using some of the standard MarkDown components and some special flavor.
 > Task & Solution: [markdown-parser](https://github.com/inesucrvenom/practice-archive/tree/master/job-interview-php/markdown-parser).
 
