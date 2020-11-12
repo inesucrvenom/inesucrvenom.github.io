@@ -8,6 +8,7 @@ Before this assignment I didn't have a clue what AWS Lambda is or how to use it.
 After roughly 3 weeks of research and work on it, I'm proud with the result.
 > Repo: [mathfun](https://github.com/inesucrvenom/mathfun).
 
+<!--more-->
 ## Research flow and decisions
 ### To framework or not to framework...
 Big part of research was to figure out how to start and how to deploy lambdas.

@@ -7,6 +7,7 @@ Learning DWH, ETL using Talend on simplified exercise.
 ## Task
 Using Talend for ETL, create simple system of combining the data from multiple sources of different type. Generate several reports from that system.
 
+<!--more-->
 #### Inputs
   - databases - clients, transactions
   - excel - exchange rate list

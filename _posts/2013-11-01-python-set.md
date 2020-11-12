@@ -6,6 +6,7 @@ Made for fun - implementation of the game Set, done in Codeskulptor, [play onlin
 
 Open link, click play button, leftmost on blue titleline, have fun. I still do every time I play it. :smile:
 
+<!--more-->
 Even now in 2020 when I'm writing this I still can remember how proud I was when this MVP was done, realising how much you really CAN achieve even with basic knowledge (and good libraries). That was the missing link between my education and practice that I desperately needed and finally found.
 
 Rough explanation in one picture what set is:
