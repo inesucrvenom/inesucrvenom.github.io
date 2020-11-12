@@ -8,7 +8,9 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-
+  <div class="social-links">
+    {%- include social.html -%}
+  </div>
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
