@@ -6,7 +6,7 @@ description: > # this means to ignore newlines
 
 show_excerpts: true
 # takes whole first paragraph by default, use this otherwise:
-# excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 
 highlighter: rouge
 permalink: /:categories/:year/:month/:title:output_ext
