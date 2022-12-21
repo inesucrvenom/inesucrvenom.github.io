@@ -4,14 +4,16 @@ layout: default
 
 {% assign num = page.photos.size %}
 
+<div class="art_gallery">
 <h1>{{ page.title }}</h1>
-<div> {{ content }} </div>
+  <div> {{ content }} </div>
 {% for i in (1..num) %}
   <div >
     <img class="art_gallery_photo" src="{{ site.baseurl }}/art/photos/{{ page.photos.set }}-{{ i }}.jpg" 
          alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
   </div>
 {% endfor %}
+</div>
 <div>
   <a href="{{ site.baseurl }}/art/">Back to Gallery</a>
 </div>
