@@ -5,3 +5,5 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.art_gallery_photo {padding: 1em}
