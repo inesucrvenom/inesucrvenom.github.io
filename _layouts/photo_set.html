@@ -5,9 +5,11 @@ layout: default
 {% assign num = page.photos.size %}
 
 <h1>{{ page.title }}</h1>
+<div> {{ content }} </div>
 {% for i in (1..num) %}
-  <div class="art_gallery_photo">
-    <img src="{{ site.baseurl }}/art/photos/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+  <div >
+    <img class="art_gallery_photo" src="{{ site.baseurl }}/art/photos/{{ page.photos.set }}-{{ i }}.jpg" 
+         alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
   </div>
 {% endfor %}
 <div>
