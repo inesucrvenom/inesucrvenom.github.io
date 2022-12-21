@@ -6,6 +6,6 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.art_gallery {background-color: black;}
-.art_gallery_photo {margin: 30px; background-color: darkgray;}
-.art_gallery_photo_item {margin: 20px; border-radius: 10px; height:300px; width:300px; background-color: lightgray;}
+.art_gallery {background-color: #000000;}
+.art_gallery_photo {margin: 30px; background-color: #666666;}
+.art_gallery_photo_item {margin: 20px; border-radius: 10px; height:300px; width:300px; background-color: #aaaaaa;}
