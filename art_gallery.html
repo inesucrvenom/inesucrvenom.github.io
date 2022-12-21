@@ -13,7 +13,7 @@ description: "Bits and pieces I've made so far"
   {% assign photo_pages = site.pages | where: "layout", "photo_set" %}
   {% for photo_page in photo_pages %}
     <li>
-      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}<img class="art_gallery_photo_item" src="{{ site.baseurl }}/art/photos/{{ page.photos.set }}-{{ 1 }}.jpg" alt="Photo 1 from {{ page.photos.set | capitalize }}"></a>
+      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}<img class="art_gallery_photo_item" src="{{ site.baseurl }}/art/photos/{{ photo_page }}-{{ 1 }}.jpg" alt="Photo 1 from {{ page.photos.set | capitalize }}"></a>
     </li>
   {% endfor %}
 </ul>
