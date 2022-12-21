@@ -6,7 +6,7 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 {% for i in (1..num) %}
-  <div>
+  <div class="art_gallery_photo">
     <img src="{{ site.baseurl }}/art/photos/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
   </div>
 {% endfor %}
