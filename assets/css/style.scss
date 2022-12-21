@@ -6,4 +6,4 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.art_gallery_photo {padding: 1em}
+.art_gallery_photo {margin: 30px; border-radius: 20px}
