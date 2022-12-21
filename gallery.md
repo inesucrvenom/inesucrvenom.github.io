@@ -1,5 +1,8 @@
 ---
-title: Gallery
+layout: art_gallery
+title: Art Gallery
+permalink: /art/
+description: "Bits and pieces I've made so far"
 image: assets/site.png
 ---
-Here comes a [gallery](art_gallery.html)
+Something out of this world...
