@@ -11,7 +11,7 @@ layout: default
   {% assign photo_pages = site.pages | where: "layout", "photo_set" %}
   {% for photo_page in photo_pages %}
     <li>
-      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}
+      <a class="art_gallery" href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}
         <img class="art_gallery_photo_item" 
              src="{{ site.baseurl }}/art/photos/{{ photo_page.title | downcase }}-{{ 1 }}.jpg" 
              alt="Photo 1 from {{ photo_page.title | capitalize }}"></a>
