@@ -6,7 +6,8 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.a.art_gallery {color: #aaaaaa;}
+a.art_gallery:visited, a.art_gallery:link, a.art_gallery:hover {color: #aaaaaa;}
+a.art_gallery:hover {color: #aaaaaa; font-weight: bold}
 .art_gallery {background-color: #000000; color: #aaaaaa;}
 .art_gallery_indent {margin-left: 5%}
 .art_gallery_photo {margin: 5% !important; width:90% !important;}
